@@ -4,5 +4,5 @@ Unofficial implementation of (multi-modal) misinformation papers. Please note th
 * `mvae.py`: Multimodal Generative Models for Scalable Weakly-Supervised Learning
 * [EANN](https://github.com/yaqingwang/EANN-KDD18): EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection
 * `spotfake.py`: SpotFake: A Multi-modal Framework for Fake News Detection
-* `btic.py`: Supervised Contrastive Learning for Multimodal Unreliable News Detection in COVID-19 Pandemic
+* `btic.py`: Supervised Contrastive Learning for Multimodal Unreliable News Detection in COVID-19 Pandemic. No contrastive loss due to the lack of timestamp label
 
